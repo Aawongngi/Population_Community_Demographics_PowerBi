@@ -123,7 +123,7 @@ The detailed report pages then allow users to investigate population, demographi
 
 High-level overview of population size, population growth, provincial growth, population trends, and housing activity.
 
-![Executive Dashboard](./Executive_Dashboard.png)
+![Executive Dashboard](./Executive_Dasboard.png)
 
 ### Page 2 — Population Analysis
 
